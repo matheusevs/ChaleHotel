@@ -1,5 +1,5 @@
 "# ChaleHotel" 
 
-<img scr="img/img1.png">
+<img src="img/img1.png">
 
 ##
